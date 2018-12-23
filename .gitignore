@@ -1,0 +1,10 @@
+*.class
+target
+.settings
+.project
+.classpath
+.idea
+*.pyc
+.env
+.environment
+environment
