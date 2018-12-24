@@ -1,14 +1,14 @@
 # Data structures & Algorithms (Python)
 
 ## Index
-* [Topics](https://github.com/sanjusci/alogs#topics)
-  * [Array](https://github.com/sanjusci/alogs#array)
-* [How to run?](https://github.com/sanjusci/alogs#how-to-run)
+* [Topics](https://github.com/sanjusci/algos#topics)
+  * [Array](https://github.com/sanjusci/algos#array)
+* [How to run?](https://github.com/sanjusci/algos#how-to-run)
 
 ## Topics
 
 ### Array
-* [To reverse an array](https://github.com/sanjusci/alogs/blob/master/Arrays/reverse.py)
+* [To reverse an array](https://github.com/sanjusci/algos/blob/master/Arrays/reverse.py)
 
 ## How to run?
 1. Move to ```<project-dir>```, create virtual environment and then activate it as
