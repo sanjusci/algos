@@ -19,7 +19,7 @@ def reverse(array, start=0, end=-1):
 
     while start < end:
         array[start], array[end] = array[end], array[start]
-        print(array)
+        # print(array)
         start += 1
         end -= 1
 

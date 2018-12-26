@@ -9,6 +9,7 @@
 
 ### Array
 * [To reverse an array](https://github.com/sanjusci/algos/blob/master/Arrays/reverse.py)
+* [To rotate an array by d elements](https://github.com/sanjusci/algos/blob/master/Arrays/rotation.py)
 
 ## How to run?
 1. Move to ```<project-dir>```, create virtual environment and then activate it as

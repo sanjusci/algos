@@ -3,6 +3,7 @@ __author__ = "Sanju Sci"
 __email__ = "sanju.sci9@gmail.com"
 
 from Arrays import gcd, print_array
+from Arrays.reverse import reverse
 
 
 # Using temp array https://www.geeksforgeeks.org/array-rotation/
@@ -101,6 +102,23 @@ def left_rotate_s4(arr, d):
         arr[j] = temp
 
 
+# The Reversal Algorithm: https://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algorithm/
+# Time complexity : O(d)
+# Auxiliary Space : O(1)
+def left_rotate_s5(arr, d):
+    """
+    This function is used to left rotate arr[] of size n by d.
+    :param arr:
+      An arr that contains a list.
+    :param d:
+      A d that contains rotation value.
+    :return:
+    """
+    n = len(arr)
+    reverse(arr, 0, d - 1)
+    reverse(arr, d, n - 1)
+    reverse(arr, 0, n - 1)
+
 if __name__ == '__main__':
     from copy import deepcopy
     d = 3
@@ -108,6 +126,7 @@ if __name__ == '__main__':
     arr_copy1 = deepcopy(arr)
     arr_copy2 = deepcopy(arr)
     arr_copy3 = deepcopy(arr)
+    arr_copy4 = deepcopy(arr)
 
     print("\n---- Using S1 ----\n")
     left_rotate_s1(arr, d)
@@ -123,4 +142,9 @@ if __name__ == '__main__':
 
     print("\n---- Using S4 ----\n")
     left_rotate_s4(arr_copy3, d)
-    print_array(arr)
+    print_array(arr_copy3)
+
+    print("\n---- Using S5 ----\n")
+    left_rotate_s5(arr_copy4, d)
+    print_array(arr_copy4)
+
