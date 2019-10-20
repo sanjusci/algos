@@ -32,8 +32,8 @@
 * [Singly Linked List Ascending](https://github.com/sanjusci/algos/blob/master/LinkedList/singly_linkedlist_asc.py)
 
 ### Stack
-* [Stack](https://github.com/sanjusci/algos/blob/master/LinkedList/stack.py)
-* [Stack Linked List](https://github.com/sanjusci/algos/blob/master/LinkedList/stack_linkedlist.py)
+* [Stack](https://github.com/sanjusci/algos/blob/master/Stack/stack.py)
+* [Stack Linked List](https://github.com/sanjusci/algos/blob/master/Stack/stack_linkedlist.py)
 
 
 ## How to run?
