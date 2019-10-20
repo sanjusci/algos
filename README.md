@@ -5,6 +5,9 @@
   * [Array](https://github.com/sanjusci/algos#array)
   * [Copy](https://github.com/sanjusci/algos#copy)
   * [Sorting](https://github.com/sanjusci/algos#sorting)
+  * [Linked List](https://github.com/sanjusci/algos#linkedlist)
+  * [Stack](https://github.com/sanjusci/algos#stack)
+
 * [How to run?](https://github.com/sanjusci/algos#how-to-run)
 
 ## Topics
@@ -23,6 +26,14 @@
 * [Selection Sort](https://github.com/sanjusci/algos/blob/master/Sorting/selection/SelectionSort.java)
 * [Quick Sort](https://github.com/sanjusci/algos/blob/master/Sorting/quick/QuickSort.java)
 * [Merge Sort](https://github.com/sanjusci/algos/blob/master/Sorting/merge/MergeSort.java)
+
+### LinkedList
+* [Singly Linked List](https://github.com/sanjusci/algos/blob/master/LinkedList/singly_linkedlist.py)
+* [Singly Linked List Ascending](https://github.com/sanjusci/algos/blob/master/LinkedList/singly_linkedlist_asc.py)
+
+### Stack
+* [Stack](https://github.com/sanjusci/algos/blob/master/LinkedList/stack.py)
+* [Stack Linked List](https://github.com/sanjusci/algos/blob/master/LinkedList/stack_linkedlist.py)
 
 
 ## How to run?
