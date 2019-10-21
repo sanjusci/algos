@@ -7,6 +7,7 @@
   * [Sorting](https://github.com/sanjusci/algos#sorting)
   * [Linked List](https://github.com/sanjusci/algos#linkedlist)
   * [Stack](https://github.com/sanjusci/algos#stack)
+  * [Queue](https://github.com/sanjusci/algos#queue)
 
 * [How to run?](https://github.com/sanjusci/algos#how-to-run)
 
@@ -20,7 +21,7 @@
 * [To understand shallow copy](https://github.com/sanjusci/algos/blob/master/Copy/shallowcopy.py)
 * [To understand deepcopy](https://github.com/sanjusci/algos/blob/master/Copy/deepcopy.py)
 
-### Sorting
+### Sorting /Java
 * [Bubble Sort](https://github.com/sanjusci/algos/blob/master/Sorting/bubble/BubbleSort.java)
 * [Insertion Sort](https://github.com/sanjusci/algos/blob/master/Sorting/insertion/InsertionSort.java)
 * [Selection Sort](https://github.com/sanjusci/algos/blob/master/Sorting/selection/SelectionSort.java)
@@ -35,6 +36,8 @@
 * [Stack](https://github.com/sanjusci/algos/blob/master/Stack/stack.py)
 * [Stack Linked List](https://github.com/sanjusci/algos/blob/master/Stack/stack_linkedlist.py)
 
+### Queue
+* [Queue](https://github.com/sanjusci/algos/blob/master/Queue_/mqueue.py)
 
 ## How to run?
 1. Move to ```<project-dir>```, create virtual environment and then activate it as
